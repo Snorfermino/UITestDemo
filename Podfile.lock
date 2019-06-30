@@ -1,0 +1,24 @@
+PODS:
+  - EZSwiftExtensions (2.0)
+  - IBAnimatable (5.2.1)
+  - SnapKit (4.2.0)
+
+DEPENDENCIES:
+  - EZSwiftExtensions (= 2.0)
+  - IBAnimatable (= 5.2.1)
+  - SnapKit (= 4.2.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - EZSwiftExtensions
+    - IBAnimatable
+    - SnapKit
+
+SPEC CHECKSUMS:
+  EZSwiftExtensions: f73648a591e529a1dbd83c22b19fd3e57df6fb7d
+  IBAnimatable: a46b835ec6875178516cf7e014a40194d6bfa3fc
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+
+PODFILE CHECKSUM: 7af3d40f08a689bff2589474160e29a3c20d3daf
+
+COCOAPODS: 1.6.1
